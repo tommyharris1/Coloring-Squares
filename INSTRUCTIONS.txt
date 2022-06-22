@@ -1,0 +1,8 @@
+Run csquares.py with the specified packages in README.txt.
+(Note: Thonny is highly recommended for running the program.)
+
+Right click anywhere on the screen to toggle drawing mode.
+Left click on a color in the palette to switch to that color.
+Left click on the eraser icon to use the eraser.
+Left click on the trash icon to reset the canvas to white.
+Press 'a' or 'b' on the keyboard to access two extra colors.
